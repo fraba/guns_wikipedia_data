@@ -1,9 +1,4 @@
----
-title: "Association between gun ownership and gun-related deaths"
-author: "Francesco Bailo"
-date: "3 December 2015"
-output: html_document
----
+# Association between gun ownership and gun-related deaths
 
 I base the analysis on crowdsourced data published on Wikipedia:
 
