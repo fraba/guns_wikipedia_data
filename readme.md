@@ -111,7 +111,7 @@ plot <-
 grid.arrange(plot, bottom="Author: @FrBailo - Code: github.com/fraba/guns_wikipedia_data - Source: Wikipedia")
 ```
 
-![plot of chunk unnamed-chunk-6](figure/unnamed-chunk-6-1.png) 
+![plot of chunk plot](figure/plot-1.png) 
 
 Finally I model the gun-related death rate against the gun ownership rate. I use my dummy variable for the Latin American and Carrebean countries as predictor because I think it is significant in predicting violence.
 

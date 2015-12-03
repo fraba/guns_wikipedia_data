@@ -75,7 +75,7 @@ df$lac <- df$iso3c %in% lac_cc
 
 I plot the data with a regression line.
 
-```{r, fig.height=8, fig.width=13}
+```{r plot, fig.height=8, fig.width=13}
 plot <- 
   ggplot() +
   geom_text(data= df, aes(x=`Guns per 100 Residents (2014)`, 
